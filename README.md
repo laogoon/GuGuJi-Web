@@ -1,4 +1,4 @@
-﻿# 🐤 估股跡 (GuGuJi) — 台股實戰操作記錄與策略驗證系統【完整使用手冊】
+# 🐤 估股跡 (GuGuJi) — 台股實戰操作記錄與策略驗證系統【完整使用手冊】
 
 > 🔗 **立即開啟 Web 線上版**：[https://laogoon.github.io/GuGuJi-Web/](https://laogoon.github.io/GuGuJi-Web/)
 
